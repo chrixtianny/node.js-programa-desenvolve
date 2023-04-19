@@ -13,5 +13,5 @@ console.log(numero == numeroString); //true
 console.log(numero === Number(numeroString)); //true
 console.log(numero + Number(numeroString));
 
-//Number()
-//String()
+//Number() ou colocando + antes da variável
+//String() ou variavel.toString()
